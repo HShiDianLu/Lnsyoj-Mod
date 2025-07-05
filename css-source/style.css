@@ -1,0 +1,77 @@
+.section {
+    border-radius: 10px !important
+}
+
+.section, #menu, .footer {
+    background: rgba(0, 0, 0, 0.5) !important;
+    backdrop-filter: blur(10px);
+    transition: 0.7s ease all !important
+}
+
+.section:hover, #menu:hover, .footer:hover {
+    background: rgba(0, 0, 0, 0.7) !important;
+    backdrop-filter: blur(0px)
+}
+
+.section *, #menu *, .footer * {
+}
+
+img {
+    border-radius: 5px !important
+}
+
+pre {
+    background: rgba(0, 0, 0, 0.2) !important;
+    border-radius: 5px !important
+}
+
+pre:hover {
+    background: rgba(0, 0, 0, 0.1) !important
+}
+
+#panel {
+    background-color: rgba(255, 255, 255, 0) !important
+}
+
+body {
+    background: url(https://img.loliapi.com/i/pe/img1606.webp) !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center 0px !important
+}
+
+* {
+    transition: 0.3s ease all
+}
+
+.hide-problem-tag td span {
+    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px
+}
+
+.data-table tr:nth-child(2n) {
+    background: rgba(0, 0, 0, 0.3) !important
+}
+
+a:not(.nav__item,.menu__link) {
+    text-decoration: none !important;
+    border-bottom: 1px solid transparent;
+    color: rgba(255, 255, 255, 0.8) !important
+}
+
+a:not(.nav__item,.menu__link):hover {
+    border-bottom: 1px solid white;
+    color: rgba(255, 255, 255, 1) !important
+}
+
+* {
+    overflow: hidden
+}
+
+.dropdown-target {
+    background: rgba(0, 0, 0, 0.7) !important;
+    backdrop-filter: blur(10px);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px
+}
