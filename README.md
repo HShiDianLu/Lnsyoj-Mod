@@ -22,3 +22,5 @@ Github: [HShiDianLu/Lnsyoj-Mod](https://github.com/HShiDianLu/Lnsyoj-Mod) （欢
 !["1"](https://drive.hshidianlu.site/d/Public%20Storage/%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-07-05%20172549.png?sign=PIimgsZAP\_5x31OoZlNWCmfgldIsLYf3LOy\_qf8O490=:0 "1")
 
 !["2"](https://drive.hshidianlu.site/d/Public%20Storage/%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-07-05%20172645.png?sign=4Eq4Hrr4h9JuyBxgMPKKRkMgTtm89F1GS7Kubv-gHi8=:0 "2")
+
+Copyright © 2025 by HShiDianLu.
