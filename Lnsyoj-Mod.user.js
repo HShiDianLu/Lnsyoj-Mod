@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Lnsyoj Mod
 // @namespace    https://hshidianlu.site/article/100000013
-// @version      1.0
+// @version      2.0
 // @description  Lnsyzx Online Judge appearance modification.
 // @author       HShiDianLu
 // @match        lnsyoj.com.cn/*
 // @icon         https://hydro.ac/favicon-32x32.png
 // @grant        GM_addStyle
-// @require      https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js
+// @require      https://code.jquery.com/jquery-3.6.0.min.js
 // ==/UserScript==
 
 (function () {
